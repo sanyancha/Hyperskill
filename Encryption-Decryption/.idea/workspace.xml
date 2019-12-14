@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9858c36a-7e3f-49f6-b883-1af78dcc8ff1" name="Default Changelist" comment="Work with equals expressions">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (4)/Decrement all/Problems__4_-Decrement_all.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (4)/Decrement all/Problems__4_-Decrement_all_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (4)/Decrement all/Problems__4_-Decrement_all_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems (4)/Decrement all/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (1)/Problems__1_.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (1)/Problems__1__main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (1)/Problems__1__test.iml" beforeDir="false" />
+    <list default="true" id="9858c36a-7e3f-49f6-b883-1af78dcc8ff1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/Encrypted!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/Encrypted!/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,12 +121,20 @@
       <option name="project" value="LOCAL" />
       <updated>1576359875508</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Increment expresions">
+      <created>1576362083429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576362083431</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Work with equals expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work with equals expressions" />
+    <MESSAGE value="Increment expresions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Increment expresions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="606" y="48" key="#Main" timestamp="1576359263410">
@@ -176,10 +167,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576361412196" />
-    <state x="75" y="0" key="CommitChangelistDialog2" timestamp="1576360048040">
+    <state x="69" y="0" key="CommitChangelistDialog2" timestamp="1576362080257">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="75" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576360048040" />
+    <state x="69" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576362080257" />
     <state x="616" y="276" key="FileChooserDialogImpl" timestamp="1576361934169">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -246,6 +237,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="231" y="0" width="736" height="768" key="find.popup/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576359157915" />
+    <state x="402" y="174" key="git4idea.merge.GitPullDialog" timestamp="1576362283446">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="174" key="git4idea.merge.GitPullDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576362283446" />
     <state x="339" y="167" key="run.anything.popup" timestamp="1576356036775">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
