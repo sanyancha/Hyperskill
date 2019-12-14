@@ -11,7 +11,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Encryption-Decryption/task" />
+            <option value="$PROJECT_DIR$/Problems (1)" />
             <option value="$PROJECT_DIR$/Problems (1)/Check the value" />
+            <option value="$PROJECT_DIR$/Problems (2)/Check the given numbers are different" />
+            <option value="$PROJECT_DIR$/Problems (3)/Exactly one parameter is positive" />
             <option value="$PROJECT_DIR$/Problems/Good rest on vacation" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
             <option value="$PROJECT_DIR$/Problems/Snail" />
