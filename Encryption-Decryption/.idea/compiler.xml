@@ -20,6 +20,8 @@
       <module name="Problems__2_-Check_the_given_numbers_are_different_test" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_test" target="11" />
+      <module name="Problems__4_-Decrement_all_main" target="11" />
+      <module name="Problems__4_-Decrement_all_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>

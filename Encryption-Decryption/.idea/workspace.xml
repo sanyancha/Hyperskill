@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9858c36a-7e3f-49f6-b883-1af78dcc8ff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Problems__1_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Problems__1__main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Problems__1__test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (2)/Check the given numbers are different/Problems__2_-Check_the_given_numbers_are_different.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (2)/Check the given numbers are different/Problems__2_-Check_the_given_numbers_are_different_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (2)/Check the given numbers are different/Problems__2_-Check_the_given_numbers_are_different_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (3)/Exactly one parameter is positive/Problems__3_-Exactly_one_parameter_is_positive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (3)/Exactly one parameter is positive/Problems__3_-Exactly_one_parameter_is_positive_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (3)/Exactly one parameter is positive/Problems__3_-Exactly_one_parameter_is_positive_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems (3)/Exactly one parameter is positive/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems (3)/Exactly one parameter is positive/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems (3)/Exactly one parameter is positive/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/.idea/Problems.iml" afterDir="false" />
+    <list default="true" id="9858c36a-7e3f-49f6-b883-1af78dcc8ff1" name="Default Changelist" comment="Work with equals expressions">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (4)/Decrement all/Problems__4_-Decrement_all.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (4)/Decrement all/Problems__4_-Decrement_all_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (4)/Decrement all/Problems__4_-Decrement_all_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (4)/Decrement all/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (1)/Problems__1_.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (1)/Problems__1__main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (1)/Problems__1__test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (1)/Check the value/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (1)/Check the value/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/Encrypted!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/Encrypted!/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problems (3)/Exactly one parameter is positive" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problems (4)" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -82,8 +74,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems__3_-Exactly_one_parameter_is_positive_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (3)/Exactly one parameter is positive" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (4)" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,7 +131,19 @@
       <option name="presentableId" value="Default" />
       <updated>1576320472444</updated>
     </task>
+    <task id="LOCAL-00001" summary="Work with equals expressions">
+      <created>1576359875507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576359875508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Work with equals expressions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work with equals expressions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="606" y="48" key="#Main" timestamp="1576359263410">
@@ -156,10 +159,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="400" y="41" key="#Main_(1)/0.0.1366.768@0.0.1366.768" timestamp="1576323583632" />
-    <state x="116" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576358998610">
+    <state x="116" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576361967451">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="116" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576358998610" />
+    <state x="116" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576361967451" />
     <state x="161" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1576324102667" />
     <state x="491" y="102" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1576321174330">
       <screen x="0" y="0" width="1366" height="768" />
@@ -169,30 +172,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="712" y="110" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1576321707927" />
-    <state x="616" y="276" key="FileChooserDialogImpl" timestamp="1576358988600">
+    <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576361412196">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="616" y="276" key="FileChooserDialogImpl/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576358988600" />
+    <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576361412196" />
+    <state x="75" y="0" key="CommitChangelistDialog2" timestamp="1576360048040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="75" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576360048040" />
+    <state x="616" y="276" key="FileChooserDialogImpl" timestamp="1576361934169">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="616" y="276" key="FileChooserDialogImpl/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576361934169" />
     <state x="567" y="177" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1576323325933" />
-    <state width="661" height="187" key="GridCell.Tab.0.bottom" timestamp="1576359018758">
+    <state width="661" height="187" key="GridCell.Tab.0.bottom" timestamp="1576360240601">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="661" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576359018758" />
+    <state width="661" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576360240601" />
     <state width="1043" height="233" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1576325568577" />
-    <state width="661" height="187" key="GridCell.Tab.0.center" timestamp="1576359018758">
+    <state width="661" height="187" key="GridCell.Tab.0.center" timestamp="1576360240601">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="661" height="187" key="GridCell.Tab.0.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576359018758" />
+    <state width="661" height="187" key="GridCell.Tab.0.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576360240601" />
     <state width="1043" height="233" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1576325568577" />
-    <state width="661" height="187" key="GridCell.Tab.0.left" timestamp="1576359018758">
+    <state width="661" height="187" key="GridCell.Tab.0.left" timestamp="1576360240601">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="661" height="187" key="GridCell.Tab.0.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576359018758" />
+    <state width="661" height="187" key="GridCell.Tab.0.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576360240601" />
     <state width="1043" height="233" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1576325568576" />
-    <state width="661" height="187" key="GridCell.Tab.0.right" timestamp="1576359018758">
+    <state width="661" height="187" key="GridCell.Tab.0.right" timestamp="1576360240601">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="661" height="187" key="GridCell.Tab.0.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576359018758" />
+    <state width="661" height="187" key="GridCell.Tab.0.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576360240601" />
     <state width="1043" height="233" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1576325568577" />
     <state width="1043" height="233" key="GridCell.Tab.1.bottom" timestamp="1576325568577">
       <screen x="0" y="0" width="1366" height="768" />
@@ -215,10 +226,14 @@
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576358340576" />
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1576321225646" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1576355887017">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1576360086238">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576355887017" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576360086238" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1576360323071">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576360323071" />
     <state x="398" y="116" width="846" height="527" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576323941431">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
