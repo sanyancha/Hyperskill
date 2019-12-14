@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Encryption-Decryption-task_main" target="11" />
+      <module name="Encryption-Decryption-task_test" target="11" />
+      <module name="Problems-Good_rest_on_vacation_main" target="11" />
+      <module name="Problems-Good_rest_on_vacation_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_integers_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_integers_test" target="11" />
+      <module name="Problems-Snail_main" target="11" />
+      <module name="Problems-Snail_test" target="11" />
+      <module name="Problems-The_sum_of_digits_main" target="11" />
+      <module name="Problems-The_sum_of_digits_test" target="11" />
+      <module name="Problems__1_-Check_the_value_main" target="11" />
+      <module name="Problems__1_-Check_the_value_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
