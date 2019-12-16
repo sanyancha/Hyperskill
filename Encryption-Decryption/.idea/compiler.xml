@@ -12,6 +12,8 @@
       <module name="Problems-Snail_test" target="11" />
       <module name="Problems-The_sum_of_digits_main" target="11" />
       <module name="Problems-The_sum_of_digits_test" target="11" />
+      <module name="Problems__10_-Symmetrical_number_main" target="11" />
+      <module name="Problems__10_-Symmetrical_number_test" target="11" />
       <module name="Problems__1_-Check_the_value_main" target="11" />
       <module name="Problems__1_-Check_the_value_test" target="11" />
       <module name="Problems__1__main" target="11" />
@@ -28,6 +30,10 @@
       <module name="Problems__6_-Check_burgs_test" target="11" />
       <module name="Problems__7_-Comparing_strings_ignoring_whitespaces_main" target="11" />
       <module name="Problems__7_-Comparing_strings_ignoring_whitespaces_test" target="11" />
+      <module name="Problems__8_-The_army_of_units_main" target="11" />
+      <module name="Problems__8_-The_army_of_units_test" target="11" />
+      <module name="Problems__9_-Triangle_main" target="11" />
+      <module name="Problems__9_-Triangle_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>
