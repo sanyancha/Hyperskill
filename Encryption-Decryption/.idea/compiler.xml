@@ -22,6 +22,14 @@
       <module name="Problems__13_-Arithmetic_average_test" target="11" />
       <module name="Problems__14_-Lucky_number_main" target="11" />
       <module name="Problems__14_-Lucky_number_test" target="11" />
+      <module name="Problems__15_-The_smallest_value_main" target="11" />
+      <module name="Problems__15_-The_smallest_value_test" target="11" />
+      <module name="Problems__16_-Even_or_odd_main" target="11" />
+      <module name="Problems__16_-Even_or_odd_test" target="11" />
+      <module name="Problems__17_-Bus_tour_main" target="11" />
+      <module name="Problems__17_-Bus_tour_test" target="11" />
+      <module name="Problems__18_-The__un_-ordered_sequence_main" target="11" />
+      <module name="Problems__18_-The__un_-ordered_sequence_test" target="11" />
       <module name="Problems__1_-Check_the_value_main" target="11" />
       <module name="Problems__1_-Check_the_value_test" target="11" />
       <module name="Problems__1__main" target="11" />

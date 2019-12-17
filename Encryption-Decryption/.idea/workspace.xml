@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9858c36a-7e3f-49f6-b883-1af78dcc8ff1" name="Default Changelist" comment="Conditional statement">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (11)/Check prefix ignoring the case/Problems__11_-Check_prefix_ignoring_the_case.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (11)/Check prefix ignoring the case/Problems__11_-Check_prefix_ignoring_the_case_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (11)/Check prefix ignoring the case/Problems__11_-Check_prefix_ignoring_the_case_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (12)/The count of numbers divisible by N/Problems__12_-The_count_of_numbers_divisible_by_N.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (12)/The count of numbers divisible by N/Problems__12_-The_count_of_numbers_divisible_by_N_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (12)/The count of numbers divisible by N/Problems__12_-The_count_of_numbers_divisible_by_N_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (13)/Arithmetic average/Problems__13_-Arithmetic_average.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (13)/Arithmetic average/Problems__13_-Arithmetic_average_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (13)/Arithmetic average/Problems__13_-Arithmetic_average_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (14)/Lucky number/Problems__14_-Lucky_number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (14)/Lucky number/Problems__14_-Lucky_number_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (14)/Lucky number/Problems__14_-Lucky_number_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems (14)/Lucky number/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems (14)/Lucky number/task.html" afterDir="false" />
+    <list default="true" id="9858c36a-7e3f-49f6-b883-1af78dcc8ff1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (15)/The smallest value/Problems__15_-The_smallest_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (15)/The smallest value/Problems__15_-The_smallest_value_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (15)/The smallest value/Problems__15_-The_smallest_value_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (16)/Even or odd/Problems__16_-Even_or_odd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (16)/Even or odd/Problems__16_-Even_or_odd_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (16)/Even or odd/Problems__16_-Even_or_odd_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (17)/Bus tour/Problems__17_-Bus_tour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (17)/Bus tour/Problems__17_-Bus_tour_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (17)/Bus tour/Problems__17_-Bus_tour_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (18)/The (un)-ordered sequence/Problems__18_-The__un_-ordered_sequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (18)/The (un)-ordered sequence/Problems__18_-The__un_-ordered_sequence_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (18)/The (un)-ordered sequence/Problems__18_-The__un_-ordered_sequence_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -26,7 +24,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (10)/Symmetrical number/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (10)/Symmetrical number/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problems (14)/Lucky number" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problems (18)/The (un)-ordered sequence" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -85,8 +83,8 @@
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems__14_-Lucky_number_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (14)/Lucky number" />
+      <module name="Problems__18_-The__un_-ordered_sequence_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (18)/The (un)-ordered sequence" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -185,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576528896232</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Topic with loops">
+      <created>1576589339553</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576589339553</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,14 +199,15 @@
     <MESSAGE value="Work with string" />
     <MESSAGE value="Work with sctrings" />
     <MESSAGE value="Conditional statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditional statement" />
+    <MESSAGE value="Topic with loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Topic with loops" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="606" y="48" key="#Main" timestamp="1576589212246">
+    <state x="606" y="48" key="#Main" timestamp="1576607184026">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="606" y="48" key="#Main/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576436766971" />
-    <state x="606" y="48" key="#Main/0.0.1366.768@0.0.1366.768" timestamp="1576589212246" />
+    <state x="606" y="48" key="#Main/0.0.1366.768@0.0.1366.768" timestamp="1576607184026" />
     <state x="400" y="41" key="#Main1" timestamp="1576323631975">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -210,11 +216,11 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="400" y="41" key="#Main_(1)/0.0.1366.768@0.0.1366.768" timestamp="1576323583632" />
-    <state x="161" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576588458264">
+    <state x="161" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576606960483">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="235" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576436762248" />
-    <state x="161" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1576588458264" />
+    <state x="161" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1576606960483" />
     <state x="491" y="102" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1576321174330">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -227,36 +233,36 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576361412196" />
-    <state x="69" y="0" key="CommitChangelistDialog2" timestamp="1576528910736">
+    <state x="69" y="0" key="CommitChangelistDialog2" timestamp="1576589337470">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="69" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437007018" />
-    <state x="69" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1576528910736" />
-    <state x="567" y="177" key="FileChooserDialogImpl" timestamp="1576588446780">
+    <state x="69" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1576589337470" />
+    <state x="567" y="177" key="FileChooserDialogImpl" timestamp="1576606955478">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="616" y="276" key="FileChooserDialogImpl/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576436760737" />
-    <state x="567" y="177" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1576588446780" />
-    <state width="1322" height="192" key="GridCell.Tab.0.bottom" timestamp="1576589217689">
+    <state x="567" y="177" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1576606955478" />
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom" timestamp="1576607187433">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514281" />
-    <state width="1322" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1576589217689" />
-    <state width="1322" height="192" key="GridCell.Tab.0.center" timestamp="1576589217689">
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1576607187433" />
+    <state width="1322" height="172" key="GridCell.Tab.0.center" timestamp="1576607187432">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514280" />
-    <state width="1322" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1576589217689" />
-    <state width="1322" height="192" key="GridCell.Tab.0.left" timestamp="1576589217688">
+    <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1576607187432" />
+    <state width="1322" height="172" key="GridCell.Tab.0.left" timestamp="1576607187432">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514280" />
-    <state width="1322" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1576589217688" />
-    <state width="1322" height="192" key="GridCell.Tab.0.right" timestamp="1576589217689">
+    <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1576607187432" />
+    <state width="1322" height="172" key="GridCell.Tab.0.right" timestamp="1576607187432">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514280" />
-    <state width="1322" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1576589217689" />
+    <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1576607187432" />
     <state width="1043" height="233" key="GridCell.Tab.1.bottom" timestamp="1576325568577">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -278,16 +284,16 @@
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576358340576" />
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1576321225646" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1576528968933">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1576589360186">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437034518" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1576528968933" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1576586095189">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1576589360186" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1576601010950">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576434020790" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1576586095189" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1576601010950" />
     <state x="398" y="116" width="846" height="527" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576323941431">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
