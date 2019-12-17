@@ -14,6 +14,14 @@
       <module name="Problems-The_sum_of_digits_test" target="11" />
       <module name="Problems__10_-Symmetrical_number_main" target="11" />
       <module name="Problems__10_-Symmetrical_number_test" target="11" />
+      <module name="Problems__11_-Check_prefix_ignoring_the_case_main" target="11" />
+      <module name="Problems__11_-Check_prefix_ignoring_the_case_test" target="11" />
+      <module name="Problems__12_-The_count_of_numbers_divisible_by_N_main" target="11" />
+      <module name="Problems__12_-The_count_of_numbers_divisible_by_N_test" target="11" />
+      <module name="Problems__13_-Arithmetic_average_main" target="11" />
+      <module name="Problems__13_-Arithmetic_average_test" target="11" />
+      <module name="Problems__14_-Lucky_number_main" target="11" />
+      <module name="Problems__14_-Lucky_number_test" target="11" />
       <module name="Problems__1_-Check_the_value_main" target="11" />
       <module name="Problems__1_-Check_the_value_test" target="11" />
       <module name="Problems__1__main" target="11" />
