@@ -30,10 +30,14 @@
       <module name="Problems__17_-Bus_tour_test" target="11" />
       <module name="Problems__18_-The__un_-ordered_sequence_main" target="11" />
       <module name="Problems__18_-The__un_-ordered_sequence_test" target="11" />
+      <module name="Problems__19_-The_number_of_times_two_chars_occur_in_a_string_main" target="11" />
+      <module name="Problems__19_-The_number_of_times_two_chars_occur_in_a_string_test" target="11" />
       <module name="Problems__1_-Check_the_value_main" target="11" />
       <module name="Problems__1_-Check_the_value_test" target="11" />
       <module name="Problems__1__main" target="11" />
       <module name="Problems__1__test" target="11" />
+      <module name="Problems__20_-Maximum_sequence_of_the_same_characters_main" target="11" />
+      <module name="Problems__20_-Maximum_sequence_of_the_same_characters_test" target="11" />
       <module name="Problems__2_-Check_the_given_numbers_are_different_main" target="11" />
       <module name="Problems__2_-Check_the_given_numbers_are_different_test" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_main" target="11" />
