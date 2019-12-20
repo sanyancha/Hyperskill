@@ -5,6 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -24,6 +25,7 @@
             <option value="$PROJECT_DIR$/Problems (19)/The number of times two chars occur in a string" />
             <option value="$PROJECT_DIR$/Problems (2)/Check the given numbers are different" />
             <option value="$PROJECT_DIR$/Problems (20)/Maximum sequence of the same characters" />
+            <option value="$PROJECT_DIR$/Problems (21)/Alphabetical order" />
             <option value="$PROJECT_DIR$/Problems (3)/Exactly one parameter is positive" />
             <option value="$PROJECT_DIR$/Problems (4)/Decrement all" />
             <option value="$PROJECT_DIR$/Problems (5)/Replacing 'a' with 'b'" />

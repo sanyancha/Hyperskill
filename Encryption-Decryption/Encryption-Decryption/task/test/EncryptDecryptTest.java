@@ -1,46 +1,47 @@
 import encryptdecrypt.Main;
 import org.hyperskill.hstest.v6.stage.BaseStageTest;
-import org.hyperskill.hstest.v6.testcase.CheckResult;
 import org.hyperskill.hstest.v6.testcase.PredefinedIOTestCase;
-import org.hyperskill.hstest.v6.testcase.TestCase;
 
 import java.util.List;
 
-public class EncryptDecryptTest extends BaseStageTest<String> {
-    public EncryptDecryptTest() {
+public class EncryptDecryptTest extends BaseStageTest {
+    public EncryptDecryptTest() throws Exception {
         super(Main.class);
     }
 
     @Override
-    public List<TestCase<String>> generate() {
+    public List<PredefinedIOTestCase> generate() {
         return List.of(
-            new TestCase<String>().setAttach("dv ulfmw z givzhfiv!")
+            new PredefinedIOTestCase(
+                "enc\n" +
+                    "Welcome to hyperskill!\n" +
+                    "5",
+                "\\jqhtrj%yt%m~ujwxpnqq&"),
+            new PredefinedIOTestCase(
+                "enc\n" +
+                    "Hello\n" +
+                    "0",
+                "Hello"),
+            new PredefinedIOTestCase(
+                "enc\n" +
+                    "012345678\n" +
+                    "1",
+                "123456789"),
+            new PredefinedIOTestCase(
+                "dec\n" +
+                    "\\jqhtrj%yt%m~ujwxpnqq&\n" +
+                    "5",
+                "Welcome to hyperskill!"),
+            new PredefinedIOTestCase(
+                "dec\n" +
+                    "Hello\n" +
+                    "0",
+                "Hello"),
+            new PredefinedIOTestCase(
+                "dec\n" +
+                    "222233334444\n" +
+                    "1",
+                "111122223333")
         );
-    }
-
-    @Override
-    public CheckResult check(String reply, String clue) {
-        reply = reply.trim();
-        clue = clue.trim();
-        boolean isCorrect = reply.trim().equals(clue.trim());
-        if (isCorrect) {
-            return CheckResult.TRUE;
-        }
-        if (reply.length() != clue.length()) {
-            return CheckResult.FALSE(
-                "You should output a line with length " +
-                clue.length() + ". " + "You output a " +
-                "line with length " + reply.length()
-            );
-        }
-        for (int i = 0; i < clue.length(); i++) {
-            if (reply.charAt(i) != clue.charAt(i)) {
-                return CheckResult.FALSE(
-                    "Your " + (i+1) + "-th character '" + reply.charAt(i) + "'" +
-                    " is incorrect. The right one is '" + clue.charAt(i) + "'"
-                );
-            }
-        }
-        return CheckResult.TRUE;
     }
 }
