@@ -40,6 +40,10 @@
       <module name="Problems__20_-Maximum_sequence_of_the_same_characters_test" target="11" />
       <module name="Problems__21_-Alphabetical_order_main" target="11" />
       <module name="Problems__21_-Alphabetical_order_test" target="11" />
+      <module name="Problems__22_-Sorting_numbers_main" target="11" />
+      <module name="Problems__22_-Sorting_numbers_test" target="11" />
+      <module name="Problems__23_-Parameters_and_their_values_main" target="11" />
+      <module name="Problems__23_-Parameters_and_their_values_test" target="11" />
       <module name="Problems__2_-Check_the_given_numbers_are_different_main" target="11" />
       <module name="Problems__2_-Check_the_given_numbers_are_different_test" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_main" target="11" />
