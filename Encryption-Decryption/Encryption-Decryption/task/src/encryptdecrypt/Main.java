@@ -3,24 +3,50 @@ package encryptdecrypt;
 import java.util.Scanner;
 
 public class Main {
+    private  static final boolean SYSTEM_INPUT = false;
+
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
-        String type = sc.nextLine();
-        String data = sc.nextLine();
         String enc_dec = "";
+        String type = "enc";
+        String data = "";
+        int key;
 
-        int n = sc.nextInt();
+        if (SYSTEM_INPUT) {
+            Scanner sc = new Scanner(System.in);
 
-        for(char c : data.toCharArray()){
-            if (type.equals("enc")) {
-                c = encrypeChar(c, n);
-            } else if (type.equals("dec")) {
-                c = decryptChar(c, n);
-            }
-            enc_dec = enc_dec + c;
+            type = sc.nextLine();
+            data = sc.nextLine();
+            key = sc.nextInt();
+        } else {
+
+            type = getArgValue("-mode", "enc", args);
+            data = getArgValue("-data", "", args);
+            key = Integer.parseInt(getArgValue("-key", "0", args));
         }
-        System.out.println(enc_dec);
+
+        switch (type) {
+            case "enc":
+                System.out.println(encrypeString(data, key));
+                break;
+            case "dec":
+                System.out.println(decryptString(data, key));
+                break;
+            default:
+                ;
+        }
+    }
+
+    static String getArgValue(String keyword, String dflt, String[] data){
+        for(int i = 0; i < data.length; i++){
+            if (data[i].toLowerCase().equals(keyword)) {
+                if (i+1<= data.length){
+                    return data[i + 1];
+                } else {
+                    return dflt;
+                }
+            }
+        }
+        return dflt;
     }
 
     static boolean isCharValid(char c){
@@ -31,6 +57,25 @@ public class Main {
             return false;
         }
     }
+
+    static String encrypeString(String data, int key){
+        String out = "";
+        for(char c : data.toCharArray()){
+            c = encrypeChar(c, key);
+            out = out + c;
+        }
+        return out;
+    }
+
+    static String decryptString(String data, int key){
+        String out = "";
+        for(char c : data.toCharArray()){
+            c = decryptChar(c, key);
+            out = out + c;
+        }
+        return out;
+    }
+
 
     static char encrypeChar(char c, int n){
         return (char) (c + n);
