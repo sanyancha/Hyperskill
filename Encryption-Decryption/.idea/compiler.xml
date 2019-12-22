@@ -46,6 +46,14 @@
       <module name="Problems__23_-Parameters_and_their_values_test" target="11" />
       <module name="Problems__24_-Calculator_-_2_main" target="11" />
       <module name="Problems__24_-Calculator_-_2_test" target="11" />
+      <module name="Problems__25_-Binary_search_main" target="11" />
+      <module name="Problems__25_-Binary_search_test" target="11" />
+      <module name="Problems__26_-Converting_a_sequence_of_numbers_main" target="11" />
+      <module name="Problems__26_-Converting_a_sequence_of_numbers_test" target="11" />
+      <module name="Problems__26_-Sum_of_numbers_divisible_by_6_main" target="11" />
+      <module name="Problems__26_-Sum_of_numbers_divisible_by_6_test" target="11" />
+      <module name="Problems__27_-Sum_of_numbers_divisible_by_6_main" target="11" />
+      <module name="Problems__27_-Sum_of_numbers_divisible_by_6_test" target="11" />
       <module name="Problems__2_-Check_the_given_numbers_are_different_main" target="11" />
       <module name="Problems__2_-Check_the_given_numbers_are_different_test" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_main" target="11" />
@@ -64,6 +72,12 @@
       <module name="Problems__9_-Triangle_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
+      <module name="WorkWithFiles-Count_even_numbers_main" target="11" />
+      <module name="WorkWithFiles-Count_even_numbers_test" target="11" />
+      <module name="WorkWithFiles-Count_numbers_in_a_file_main" target="11" />
+      <module name="WorkWithFiles-Count_numbers_in_a_file_test" target="11" />
+      <module name="WorkWithFiles-Find_the_greatest_number_in_a_file_main" target="11" />
+      <module name="WorkWithFiles-Find_the_greatest_number_in_a_file_test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
