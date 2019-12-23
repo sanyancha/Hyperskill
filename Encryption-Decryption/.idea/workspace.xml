@@ -2,59 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9858c36a-7e3f-49f6-b883-1af78dcc8ff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (25)/Binary search/Problems__25_-Binary_search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (25)/Binary search/Problems__25_-Binary_search_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (25)/Binary search/Problems__25_-Binary_search_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (26)/Converting a sequence of numbers/Problems__26_-Converting_a_sequence_of_numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (26)/Converting a sequence of numbers/Problems__26_-Converting_a_sequence_of_numbers_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (26)/Converting a sequence of numbers/Problems__26_-Converting_a_sequence_of_numbers_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (27)/Sum of numbers divisible by 6/Problems__27_-Sum_of_numbers_divisible_by_6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (27)/Sum of numbers divisible by 6/Problems__27_-Sum_of_numbers_divisible_by_6_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (27)/Sum of numbers divisible by 6/Problems__27_-Sum_of_numbers_divisible_by_6_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/Count even numbers/WorkWithFiles-Count_even_numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/Count even numbers/WorkWithFiles-Count_even_numbers_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/Count even numbers/WorkWithFiles-Count_even_numbers_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/Count numbers in a file/WorkWithFiles-Count_numbers_in_a_file.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/Count numbers in a file/WorkWithFiles-Count_numbers_in_a_file_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/Count numbers in a file/WorkWithFiles-Count_numbers_in_a_file_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/Find the greatest number in a file/WorkWithFiles-Find_the_greatest_number_in_a_file.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/Find the greatest number in a file/WorkWithFiles-Find_the_greatest_number_in_a_file_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/Find the greatest number in a file/WorkWithFiles-Find_the_greatest_number_in_a_file_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkWithFiles/Count numbers in a file/Count numbers in a file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (29)/Are siblings/Problems__29_-Are_siblings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (29)/Are siblings/Problems__29_-Are_siblings_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (29)/Are siblings/Problems__29_-Are_siblings_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/Decrypted!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/Decrypted!/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/Encrypted!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/Encrypted!/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Encryption-Decryption/I command you/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/I command you/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/main/encryptdecrypt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/main/encryptdecrypt/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/test/EncryptDecryptTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/test/EncryptDecryptTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/classes/EncryptDecryptTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/classes/EncryptDecryptTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/TEST-EncryptDecryptTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/TEST-EncryptDecryptTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/out/test/classes/EncryptDecryptTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/out/test/classes/EncryptDecryptTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/test/EncryptDecryptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/test/EncryptDecryptTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (15)/The smallest value/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (15)/The smallest value/out/production/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (18)/The (un)-ordered sequence/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (18)/The (un)-ordered sequence/out/production/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (2)/Check the given numbers are different/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (2)/Check the given numbers are different/out/production/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (2)/Check the given numbers are different/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (2)/Check the given numbers are different/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/Knowledge is key/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/Knowledge is key/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/X-files/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/X-files/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkWithFiles/Count even numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/WorkWithFiles/Count even numbers/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,9 +53,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WorkWithFiles/Count even numbers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36725664" />
@@ -98,18 +65,18 @@
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count even numbers" />
-      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count even numbers\Data" />
-      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\CountEvenNumbers\src" />
-      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count numbers in a file\Data" />
-      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count numbers in a file" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\Problems (1)" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\Problems (1)" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\Encryption-Decryption\task\src\encryptdecrypt" />
+      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count even numbers" />
+      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count even numbers\Data" />
+      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\CountEvenNumbers\src" />
+      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count numbers in a file\Data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -119,7 +86,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main_Problem">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main (1)" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="encryptdecrypt.Main" />
       <module name="Encryption-Decryption" />
@@ -147,8 +114,8 @@
     <configuration name="Main2" type="Application" factoryName="Application" editBeforeRun="true" temporary="true">
       <option name="MAIN_CLASS_NAME" value="encryptdecrypt.Main" />
       <module name="Encryption-Decryption-task_main" />
-      <option name="PROGRAM_PARAMETERS" value="-key 5 -data &quot;\jqhtrj%yt%m~ujwxpnqq&amp;&quot; -mode dec" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Encryption-Decryption/task" />
+      <option name="PROGRAM_PARAMETERS" value="java Main -mode enc -key 5 -out protected.txt -in road_to_treasure.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="encryptdecrypt.*" />
@@ -215,6 +182,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main_Problem" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main_10" />
@@ -222,8 +190,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main_10" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -344,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576945322836</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Exceptions and Files">
+      <created>1577050541392</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1577050541392</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -358,7 +333,8 @@
     <MESSAGE value="Added decryption algorithm" />
     <MESSAGE value="Work with command line parameters" />
     <MESSAGE value="Project update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project update" />
+    <MESSAGE value="Exceptions and Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions and Files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="33" key="#Main" timestamp="1576777585681">
@@ -370,10 +346,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="400" y="41" key="#Main1/0.0.1366.768@0.0.1366.768" timestamp="1576323631975" />
-    <state x="355" y="41" key="#Main2" timestamp="1576945084794">
+    <state x="380" y="73" key="#Main2" timestamp="1577126443702">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="355" y="41" key="#Main2/0.0.1366.768@0.0.1366.768" timestamp="1576945084794" />
+    <state x="380" y="73" key="#Main2/0.0.1366.768@0.0.1366.768" timestamp="1577126443702" />
     <state x="400" y="41" key="#Main_(1)" timestamp="1576778573584">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -394,15 +370,15 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="355" y="53" key="#Main_Problem/0.0.1366.768@0.0.1366.768" timestamp="1577050373686" />
-    <state x="275" y="41" key="#Project_Structure" timestamp="1577049848115">
+    <state x="275" y="41" key="#Project_Structure" timestamp="1577120792860">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="41" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1577049848115" />
-    <state x="114" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577050240231">
+    <state x="275" y="41" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1577120792860" />
+    <state x="-27" y="63" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577126069683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="235" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576436762248" />
-    <state x="114" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1577050240231" />
+    <state x="-27" y="63" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1577126069683" />
     <state x="458" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577044755244">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -420,71 +396,71 @@
     </state>
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576361412196" />
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1577047620980" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1576945318036">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1577050538025">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="69" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437007018" />
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1576945318036" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577050538025" />
     <state x="129" y="58" key="DiffContextDialog" timestamp="1576857147125">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="129" y="58" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1576857147125" />
-    <state x="767" y="179" key="FileChooserDialogImpl" timestamp="1577050215375">
+    <state x="767" y="179" key="FileChooserDialogImpl" timestamp="1577123270422">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="616" y="276" key="FileChooserDialogImpl/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576436760737" />
-    <state x="767" y="179" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1577050215375" />
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1577050389458">
+    <state x="767" y="179" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1577123270422" />
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1577126455867">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514281" />
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577050389458" />
-    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1577050389458">
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577126455867" />
+    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1577126455867">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514280" />
-    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1577050389458" />
-    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1577050389457">
+    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1577126455867" />
+    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1577126455866">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514280" />
-    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1577050389457" />
-    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1577050389458">
+    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1577126455866" />
+    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1577126455867">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514280" />
-    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1577050389458" />
-    <state width="1322" height="233" key="GridCell.Tab.1.bottom" timestamp="1576779171138">
+    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1577126455867" />
+    <state width="1322" height="20" key="GridCell.Tab.1.bottom" timestamp="1577126361469">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="233" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1576779171138" />
-    <state width="1322" height="233" key="GridCell.Tab.1.center" timestamp="1576779171138">
+    <state width="1322" height="20" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577126361469" />
+    <state width="1322" height="20" key="GridCell.Tab.1.center" timestamp="1577126361468">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="233" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1576779171138" />
-    <state width="1322" height="233" key="GridCell.Tab.1.left" timestamp="1576779171138">
+    <state width="1322" height="20" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1577126361468" />
+    <state width="1322" height="20" key="GridCell.Tab.1.left" timestamp="1577126361468">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="233" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1576779171138" />
-    <state width="1322" height="233" key="GridCell.Tab.1.right" timestamp="1576779171138">
+    <state width="1322" height="20" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1577126361468" />
+    <state width="1322" height="20" key="GridCell.Tab.1.right" timestamp="1577126361469">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="233" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1576779171138" />
+    <state width="1322" height="20" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1577126361469" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1577049919508">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576358340576" />
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1577049919508" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1576945327750">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1577050554667">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437034518" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1576945327750" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1577049984328">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1577050554667" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1577121407597">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576434020790" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1577049984328" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1577121407597" />
     <state x="398" y="116" width="846" height="527" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576323941431">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -511,5 +487,61 @@
     </state>
     <state x="339" y="167" key="run.anything.popup/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576356036775" />
     <state x="339" y="167" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1577032425589" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

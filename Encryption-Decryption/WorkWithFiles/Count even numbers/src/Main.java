@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
         File file = new File("./Data/dataset_91065.txt");
-
         try {
             Scanner sc = new Scanner(file);
             int count = 0;

@@ -100,6 +100,21 @@ files:
         }
     }
   learner_created: false
+- name: src/encryptdecrypt/Data/road_to_treasure.txt
+  visible: true
+  learner_created: true
+- name: src/encryptdecrypt/Data/protected.txt
+  visible: true
+  learner_created: true
+- name: src/encryptdecrypt/road_to_treasure.txt
+  visible: true
+  learner_created: true
+- name: output.txt
+  visible: true
+  learner_created: true
+- name: src/encryptdecrypt/protected.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/46/stages/249/implement
-status: Unchecked
+status: Solved
 record: -1

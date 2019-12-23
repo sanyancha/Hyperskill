@@ -54,6 +54,8 @@
       <module name="Problems__26_-Sum_of_numbers_divisible_by_6_test" target="11" />
       <module name="Problems__27_-Sum_of_numbers_divisible_by_6_main" target="11" />
       <module name="Problems__27_-Sum_of_numbers_divisible_by_6_test" target="11" />
+      <module name="Problems__29_-Are_siblings_main" target="11" />
+      <module name="Problems__29_-Are_siblings_test" target="11" />
       <module name="Problems__2_-Check_the_given_numbers_are_different_main" target="11" />
       <module name="Problems__2_-Check_the_given_numbers_are_different_test" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_main" target="11" />

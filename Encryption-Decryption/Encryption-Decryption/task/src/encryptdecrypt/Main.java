@@ -1,5 +1,8 @@
 package encryptdecrypt;
 
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.Scanner;
 
 public class Main {
@@ -8,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         String enc_dec = "";
         String type = "enc";
-        String data = "";
+        String data = "", inFile = "", outFile = "";
         int key;
 
         if (SYSTEM_INPUT) {
@@ -17,19 +20,52 @@ public class Main {
             type = sc.nextLine();
             data = sc.nextLine();
             key = sc.nextInt();
-        } else {
+            inFile = sc.nextLine();
+            outFile = sc.nextLine();
 
+        } else {
             type = getArgValue("-mode", "enc", args);
             data = getArgValue("-data", "", args);
+            inFile = getArgValue("-in", null, args);
+            outFile = getArgValue("-out", null, args);
             key = Integer.parseInt(getArgValue("-key", "0", args));
         }
 
         switch (type) {
             case "enc":
-                System.out.println(encrypeString(data, key));
+                String encryptedString, encryptedData = "";
+
+                if (inFile == null) {
+                    encryptedData = data;
+                } else {
+                    encryptedData = getDataFromFile(inFile);
+                }
+
+                encryptedString = encrypeString(encryptedData, key);
+
+                if (outFile == null) {
+                    System.out.println(encryptedString);
+                } else {
+                    sendDataToFile(encryptedString, outFile);
+                }
                 break;
+
             case "dec":
-                System.out.println(decryptString(data, key));
+                String decryptedString, decryptedData = "";
+
+                if (inFile == null) {
+                    decryptedData = data;
+                } else {
+                    decryptedData = getDataFromFile(inFile);
+                }
+
+                decryptedString = decryptString(decryptedData, key);
+
+                if (outFile == null) {
+                    System.out.println(decryptedString);
+                } else {
+                    sendDataToFile(decryptedString, outFile);
+                }
                 break;
             default:
                 ;
@@ -37,14 +73,22 @@ public class Main {
     }
 
     static String getArgValue(String keyword, String dflt, String[] data){
-        for(int i = 0; i < data.length; i++){
-            if (data[i].toLowerCase().equals(keyword)) {
-                if (i+1<= data.length){
-                    return data[i + 1];
-                } else {
-                    return dflt;
+        int i = 0;
+        try {
+            for (i = 0; i < data.length; i++) {
+                if (data[i].toLowerCase().equals(keyword)) {
+                    if (data[i + 1].charAt(0) == '-') {
+                        System.out.println("Error, no data found for the parameter " + i);
+                        return dflt;
+                    } else {
+                        return data[i + 1];
+                    }
                 }
             }
+        } catch (IndexOutOfBoundsException e) {
+            System.out.println("Error, no data found for the last parameter.");
+            System.out.println(i);
+            System.out.println(e.getMessage());
         }
         return dflt;
     }
@@ -75,6 +119,30 @@ public class Main {
         }
         return out;
     }
+
+    static String getDataFromFile(String filePath){
+        File file = new File(filePath);
+
+        try(Scanner scanner = new Scanner(file)){
+            return scanner.nextLine();
+        }catch (IOException e){
+            System.out.println("Error! " + e.getMessage());
+            return "";
+        }
+    }
+
+    static boolean sendDataToFile(String data, String filePath){
+        File file = new File(filePath);
+
+        try(FileWriter fileWriter = new FileWriter(file)){
+            fileWriter.write(data);
+            return true;
+        }catch (IOException e){
+            System.out.println("Error! " + e.getMessage());
+            return false;
+        }
+    }
+
 
 
     static char encrypeChar(char c, int n){
