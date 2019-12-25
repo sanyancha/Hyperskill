@@ -58,6 +58,14 @@
       <module name="Problems__29_-Are_siblings_test" target="11" />
       <module name="Problems__2_-Check_the_given_numbers_are_different_main" target="11" />
       <module name="Problems__2_-Check_the_given_numbers_are_different_test" target="11" />
+      <module name="Problems__30_-Create_a_euphonious_word_main" target="11" />
+      <module name="Problems__30_-Create_a_euphonious_word_test" target="11" />
+      <module name="Problems__31_-Overloading_methods_main" target="11" />
+      <module name="Problems__31_-Overloading_methods_test" target="11" />
+      <module name="Problems__32_-Project_constants_and_methods_main" target="11" />
+      <module name="Problems__32_-Project_constants_and_methods_test" target="11" />
+      <module name="Problems__33_-Too_many_cats_main" target="11" />
+      <module name="Problems__33_-Too_many_cats_test" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems__4_-Decrement_all_main" target="11" />
