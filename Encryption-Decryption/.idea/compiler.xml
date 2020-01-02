@@ -80,6 +80,10 @@
       <module name="Problems__39_-Compact_strings_with_AsciiCharSequence_test" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_test" target="11" />
+      <module name="Problems__40_-Max_and_Min_main" target="11" />
+      <module name="Problems__40_-Max_and_Min_test" target="11" />
+      <module name="Problems__41_-Pick_your_team_main" target="11" />
+      <module name="Problems__41_-Pick_your_team_test" target="11" />
       <module name="Problems__4_-Decrement_all_main" target="11" />
       <module name="Problems__4_-Decrement_all_test" target="11" />
       <module name="Problems__5_-Replacing_'a'_with_'b'_main" target="11" />
