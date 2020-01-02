@@ -2,47 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9858c36a-7e3f-49f6-b883-1af78dcc8ff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (30)/Create a euphonious word/Problems__30_-Create_a_euphonious_word.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (30)/Create a euphonious word/Problems__30_-Create_a_euphonious_word_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (30)/Create a euphonious word/Problems__30_-Create_a_euphonious_word_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (31)/Overloading methods/Problems__31_-Overloading_methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (31)/Overloading methods/Problems__31_-Overloading_methods_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (31)/Overloading methods/Problems__31_-Overloading_methods_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (32)/Project constants and methods/Problems__32_-Project_constants_and_methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (32)/Project constants and methods/Problems__32_-Project_constants_and_methods_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (32)/Project constants and methods/Problems__32_-Project_constants_and_methods_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (33)/Too many cats/Problems__33_-Too_many_cats.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (33)/Too many cats/Problems__33_-Too_many_cats_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (33)/Too many cats/Problems__33_-Too_many_cats_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (34)/Publications/Problems__34_-Publications.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (34)/Publications/Problems__34_-Publications_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (34)/Publications/Problems__34_-Publications_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (35)/Shapes area/Problems__35_-Shapes_area.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (35)/Shapes area/Problems__35_-Shapes_area_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (35)/Shapes area/Problems__35_-Shapes_area_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (36)/Publication and its subclasses/Problems__36_-Publication_and_its_subclasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (36)/Publication and its subclasses/Problems__36_-Publication_and_its_subclasses_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (36)/Publication and its subclasses/Problems__36_-Publication_and_its_subclasses_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (37)/Mutable geometric shapes/Problems__37_-Mutable_geometric_shapes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (37)/Mutable geometric shapes/Problems__37_-Mutable_geometric_shapes_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (37)/Mutable geometric shapes/Problems__37_-Mutable_geometric_shapes_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (38)/Account Service/Problems__38_-Account_Service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (38)/Account Service/Problems__38_-Account_Service_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (38)/Account Service/Problems__38_-Account_Service_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (39)/Compact strings with AsciiCharSequence/Problems__39_-Compact_strings_with_AsciiCharSequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (39)/Compact strings with AsciiCharSequence/Problems__39_-Compact_strings_with_AsciiCharSequence_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (39)/Compact strings with AsciiCharSequence/Problems__39_-Compact_strings_with_AsciiCharSequence_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/World population/WorkWithFiles-World_population.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/World population/WorkWithFiles-World_population_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/WorkWithFiles/World population/WorkWithFiles-World_population_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/X-files/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/X-files/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/main/encryptdecrypt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/main/encryptdecrypt/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/test/EncryptDecryptTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/test/EncryptDecryptTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/classes/EncryptDecryptTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/classes/EncryptDecryptTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/TEST-EncryptDecryptTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/TEST-EncryptDecryptTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/test/EncryptDecryptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/test/EncryptDecryptTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +69,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problems (33)/Too many cats" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WorkWithFiles/World population" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36725664" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -87,18 +78,18 @@
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\Problems (1)" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\Encryption-Decryption\task\src\encryptdecrypt" />
       <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count even numbers" />
       <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count even numbers\Data" />
       <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\CountEvenNumbers\src" />
       <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count numbers in a file\Data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\Problems (1)" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -187,9 +178,9 @@
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Cat" />
-      <module name="Problems__33_-Too_many_cats_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (33)/Too many cats" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="WorkWithFiles-World_population_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkWithFiles/World population" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -348,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577126608303</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Overloading and Static Fields/Methods">
+      <created>1577276983220</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1577276983220</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -364,7 +362,8 @@
     <MESSAGE value="Project update" />
     <MESSAGE value="Exceptions and Files" />
     <MESSAGE value="Encryption with Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encryption with Files" />
+    <MESSAGE value="Overloading and Static Fields/Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overloading and Static Fields/Methods" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="33" key="#Main" timestamp="1576777585681">
@@ -396,19 +395,19 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="355" y="53" key="#Main_20/0.0.1366.768@0.0.1366.768" timestamp="1576778531268" />
-    <state x="643" y="107" width="670" height="661" key="#Main_Problem" timestamp="1577276645445">
+    <state x="643" y="107" width="670" height="661" key="#Main_Problem" timestamp="1577456254014">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="643" y="107" width="670" height="661" key="#Main_Problem/0.0.1366.768@0.0.1366.768" timestamp="1577276645445" />
-    <state x="275" y="41" key="#Project_Structure" timestamp="1577120792860">
+    <state x="643" y="107" width="670" height="661" key="#Main_Problem/0.0.1366.768@0.0.1366.768" timestamp="1577456254014" />
+    <state x="275" y="41" key="#Project_Structure" timestamp="1577454247235">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="41" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1577120792860" />
-    <state x="-27" y="63" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577270687815">
+    <state x="275" y="41" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1577454247235" />
+    <state x="125" y="70" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577454595663">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="235" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576436762248" />
-    <state x="-27" y="63" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1577270687815" />
+    <state x="125" y="70" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1577454595663" />
     <state x="458" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577044755244">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -417,6 +416,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="491" y="102" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.768@0.0.1366.768" timestamp="1576321174330" />
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1577969104388">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577969104388" />
     <state x="617" y="127" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577050199020">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -426,71 +429,71 @@
     </state>
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576361412196" />
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1577047620980" />
-    <state x="112" y="0" key="CommitChangelistDialog2" timestamp="1577126604619">
+    <state x="112" y="0" key="CommitChangelistDialog2" timestamp="1577276979229">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="69" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437007018" />
-    <state x="112" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577126604619" />
+    <state x="112" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577276979229" />
     <state x="129" y="58" key="DiffContextDialog" timestamp="1576857147125">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="129" y="58" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1576857147125" />
-    <state x="767" y="179" key="FileChooserDialogImpl" timestamp="1577276480097">
+    <state x="767" y="179" key="FileChooserDialogImpl" timestamp="1577454593606">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="616" y="276" key="FileChooserDialogImpl/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576436760737" />
-    <state x="767" y="179" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1577276480097" />
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1577276651800">
+    <state x="767" y="179" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1577454593606" />
+    <state width="1322" height="234" key="GridCell.Tab.0.bottom" timestamp="1577456259773">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514281" />
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577276651800" />
-    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1577276651800">
+    <state width="1322" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577456259773" />
+    <state width="1322" height="234" key="GridCell.Tab.0.center" timestamp="1577456259773">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514280" />
-    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1577276651800" />
-    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1577276651800">
+    <state width="1322" height="234" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1577456259773" />
+    <state width="1322" height="234" key="GridCell.Tab.0.left" timestamp="1577456259773">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514280" />
-    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1577276651800" />
-    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1577276651800">
+    <state width="1322" height="234" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1577456259773" />
+    <state width="1322" height="234" key="GridCell.Tab.0.right" timestamp="1577456259773">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="623" height="187" key="GridCell.Tab.0.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437514280" />
-    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1577276651800" />
-    <state width="1322" height="20" key="GridCell.Tab.1.bottom" timestamp="1577126676408">
+    <state width="1322" height="234" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1577456259773" />
+    <state width="1322" height="234" key="GridCell.Tab.1.bottom" timestamp="1577456259774">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="20" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577126676408" />
-    <state width="1322" height="20" key="GridCell.Tab.1.center" timestamp="1577126676408">
+    <state width="1322" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577456259774" />
+    <state width="1322" height="234" key="GridCell.Tab.1.center" timestamp="1577456259774">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="20" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1577126676408" />
-    <state width="1322" height="20" key="GridCell.Tab.1.left" timestamp="1577126676408">
+    <state width="1322" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1577456259774" />
+    <state width="1322" height="234" key="GridCell.Tab.1.left" timestamp="1577456259774">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="20" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1577126676408" />
-    <state width="1322" height="20" key="GridCell.Tab.1.right" timestamp="1577126676408">
+    <state width="1322" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1577456259774" />
+    <state width="1322" height="234" key="GridCell.Tab.1.right" timestamp="1577456259774">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="20" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1577126676408" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1577049919508">
+    <state width="1322" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1577456259774" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1577454063252">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576358340576" />
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1577049919508" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1577126617676">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1577454063252" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1577276993861">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437034518" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1577126617676" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1577269343863">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1577276993861" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1577966553671">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576434020790" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1577269343863" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577966553671" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1577466901742" />
     <state x="398" y="116" width="846" height="527" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576323941431">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -508,14 +511,25 @@
     </state>
     <state x="402" y="174" key="git4idea.merge.GitPullDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576437013650" />
     <state x="402" y="174" key="git4idea.merge.GitPullDialog/0.0.1366.768@0.0.1366.768" timestamp="1576867846974" />
-    <state x="66" y="3" key="new project wizard" timestamp="1577049686441">
+    <state x="66" y="3" key="new project wizard" timestamp="1577454056501">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="66" y="3" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1577049686441" />
+    <state x="66" y="3" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1577454056501" />
     <state x="339" y="167" key="run.anything.popup" timestamp="1577032425589">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="339" y="167" key="run.anything.popup/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576356036775" />
     <state x="339" y="167" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1577032425589" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

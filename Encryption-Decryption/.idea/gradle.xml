@@ -38,6 +38,12 @@
             <option value="$PROJECT_DIR$/Problems (31)/Overloading methods" />
             <option value="$PROJECT_DIR$/Problems (32)/Project constants and methods" />
             <option value="$PROJECT_DIR$/Problems (33)/Too many cats" />
+            <option value="$PROJECT_DIR$/Problems (34)/Publications" />
+            <option value="$PROJECT_DIR$/Problems (35)/Shapes area" />
+            <option value="$PROJECT_DIR$/Problems (36)/Publication and its subclasses" />
+            <option value="$PROJECT_DIR$/Problems (37)/Mutable geometric shapes" />
+            <option value="$PROJECT_DIR$/Problems (38)/Account Service" />
+            <option value="$PROJECT_DIR$/Problems (39)/Compact strings with AsciiCharSequence" />
             <option value="$PROJECT_DIR$/Problems (4)/Decrement all" />
             <option value="$PROJECT_DIR$/Problems (5)/Replacing 'a' with 'b'" />
             <option value="$PROJECT_DIR$/Problems (6)/Check burgs" />
@@ -51,6 +57,7 @@
             <option value="$PROJECT_DIR$/WorkWithFiles/Count even numbers" />
             <option value="$PROJECT_DIR$/WorkWithFiles/Count numbers in a file" />
             <option value="$PROJECT_DIR$/WorkWithFiles/Find the greatest number in a file" />
+            <option value="$PROJECT_DIR$/WorkWithFiles/World population" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

@@ -66,6 +66,18 @@
       <module name="Problems__32_-Project_constants_and_methods_test" target="11" />
       <module name="Problems__33_-Too_many_cats_main" target="11" />
       <module name="Problems__33_-Too_many_cats_test" target="11" />
+      <module name="Problems__34_-Publications_main" target="11" />
+      <module name="Problems__34_-Publications_test" target="11" />
+      <module name="Problems__35_-Shapes_area_main" target="11" />
+      <module name="Problems__35_-Shapes_area_test" target="11" />
+      <module name="Problems__36_-Publication_and_its_subclasses_main" target="11" />
+      <module name="Problems__36_-Publication_and_its_subclasses_test" target="11" />
+      <module name="Problems__37_-Mutable_geometric_shapes_main" target="11" />
+      <module name="Problems__37_-Mutable_geometric_shapes_test" target="11" />
+      <module name="Problems__38_-Account_Service_main" target="11" />
+      <module name="Problems__38_-Account_Service_test" target="11" />
+      <module name="Problems__39_-Compact_strings_with_AsciiCharSequence_main" target="11" />
+      <module name="Problems__39_-Compact_strings_with_AsciiCharSequence_test" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems__3_-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems__4_-Decrement_all_main" target="11" />
@@ -88,6 +100,8 @@
       <module name="WorkWithFiles-Count_numbers_in_a_file_test" target="11" />
       <module name="WorkWithFiles-Find_the_greatest_number_in_a_file_main" target="11" />
       <module name="WorkWithFiles-Find_the_greatest_number_in_a_file_test" target="11" />
+      <module name="WorkWithFiles-World_population_main" target="11" />
+      <module name="WorkWithFiles-World_population_test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
