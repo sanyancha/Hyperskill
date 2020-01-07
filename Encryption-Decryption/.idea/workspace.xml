@@ -2,21 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9858c36a-7e3f-49f6-b883-1af78dcc8ff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (40)/Max and Min/Problems__40_-Max_and_Min.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (40)/Max and Min/Problems__40_-Max_and_Min_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (40)/Max and Min/Problems__40_-Max_and_Min_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (41)/Pick your team/Problems__41_-Pick_your_team.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (41)/Pick your team/Problems__41_-Pick_your_team_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (41)/Pick your team/Problems__41_-Pick_your_team_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (42)/Clock factory/Problems__42_-Clock_factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (42)/Clock factory/Problems__42_-Clock_factory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (42)/Clock factory/Problems__42_-Clock_factory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (43)/Static factory methods for Time/Problems__43_-Static_factory_methods_for_Time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (43)/Static factory methods for Time/Problems__43_-Static_factory_methods_for_Time_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (43)/Static factory methods for Time/Problems__43_-Static_factory_methods_for_Time_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (44)/Clocks/Problems__44_-Clocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (44)/Clocks/Problems__44_-Clocks_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (44)/Clocks/Problems__44_-Clocks_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (45)/Burger store/Problems__45_-Burger_store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (45)/Burger store/Problems__45_-Burger_store_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (45)/Burger store/Problems__45_-Burger_store_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (1)/Check the value/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (1)/Check the value/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +62,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problems (41)/Pick your team" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problems (45)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36725664" />
@@ -161,9 +171,9 @@
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems__41_-Pick_your_team_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (41)/Pick your team" />
+      <option name="MAIN_CLASS_NAME" value="TestDrive" />
+      <module name="Problems__45_-Burger_store_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (45)" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -336,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577972744221</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Pattern Strategy">
+      <created>1577981043177</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1577981043177</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -354,7 +371,8 @@
     <MESSAGE value="Encryption with Files" />
     <MESSAGE value="Overloading and Static Fields/Methods" />
     <MESSAGE value="Implements and extends interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implements and extends interfaces" />
+    <MESSAGE value="Pattern Strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern Strategy" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="33" key="#Main" timestamp="1576777585681">
@@ -386,20 +404,20 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="355" y="53" key="#Main_20/0.0.1366.768@0.0.1366.768" timestamp="1576778531268" />
-    <state x="669" y="67" width="670" height="661" key="#Main_Problem" timestamp="1577980799258">
+    <state x="643" y="107" width="670" height="661" key="#Main_Problem" timestamp="1578432016118">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="669" y="67" key="#Main_Problem/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577980799258" />
-    <state x="643" y="107" width="670" height="661" key="#Main_Problem/0.0.1366.768@0.0.1366.768" timestamp="1577456254014" />
+    <state x="643" y="107" width="670" height="661" key="#Main_Problem/0.0.1366.768@0.0.1366.768" timestamp="1578432016118" />
     <state x="275" y="41" key="#Project_Structure" timestamp="1577454247235">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="41" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1577454247235" />
-    <state x="235" y="39" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577976516058">
+    <state x="125" y="70" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578431848882">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="235" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577976516058" />
-    <state x="125" y="70" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1577454595663" />
+    <state x="125" y="70" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1578431848882" />
     <state x="458" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577044755244">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -421,75 +439,75 @@
     </state>
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576361412196" />
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1577047620980" />
-    <state x="63" y="0" key="CommitChangelistDialog2" timestamp="1577972740533">
+    <state x="63" y="0" key="CommitChangelistDialog2" timestamp="1577981039005">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="63" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577972740533" />
+    <state x="63" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981039005" />
     <state x="112" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577276979229" />
     <state x="129" y="58" key="DiffContextDialog" timestamp="1576857147125">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="129" y="58" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1576857147125" />
-    <state x="616" y="276" key="FileChooserDialogImpl" timestamp="1577978020645">
+    <state x="767" y="179" key="FileChooserDialogImpl" timestamp="1578431792924">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="616" y="276" key="FileChooserDialogImpl/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577978020645" />
-    <state x="767" y="179" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1577454593606" />
-    <state width="1322" height="234" key="GridCell.Tab.0.bottom" timestamp="1577980807326">
+    <state x="767" y="179" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1578431792924" />
+    <state width="1322" height="234" key="GridCell.Tab.0.bottom" timestamp="1578432022455">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577980807326" />
-    <state width="1322" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577456259773" />
-    <state width="1322" height="234" key="GridCell.Tab.0.center" timestamp="1577980807326">
+    <state width="1322" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
+    <state width="1322" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578432022455" />
+    <state width="1322" height="234" key="GridCell.Tab.0.center" timestamp="1578432022455">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="234" key="GridCell.Tab.0.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577980807326" />
-    <state width="1322" height="234" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1577456259773" />
-    <state width="1322" height="234" key="GridCell.Tab.0.left" timestamp="1577980807326">
+    <state width="1322" height="234" key="GridCell.Tab.0.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067243" />
+    <state width="1322" height="234" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578432022455" />
+    <state width="1322" height="234" key="GridCell.Tab.0.left" timestamp="1578432022455">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="234" key="GridCell.Tab.0.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577980807326" />
-    <state width="1322" height="234" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1577456259773" />
-    <state width="1322" height="234" key="GridCell.Tab.0.right" timestamp="1577980807326">
+    <state width="1322" height="234" key="GridCell.Tab.0.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067243" />
+    <state width="1322" height="234" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578432022455" />
+    <state width="1322" height="234" key="GridCell.Tab.0.right" timestamp="1578432022455">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="234" key="GridCell.Tab.0.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577980807326" />
-    <state width="1322" height="234" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1577456259773" />
-    <state width="1322" height="234" key="GridCell.Tab.1.bottom" timestamp="1577980807083">
+    <state width="1322" height="234" key="GridCell.Tab.0.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
+    <state width="1322" height="234" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578432022455" />
+    <state width="1322" height="234" key="GridCell.Tab.1.bottom" timestamp="1578432022456">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577980807083" />
-    <state width="1322" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577456259774" />
-    <state width="1322" height="234" key="GridCell.Tab.1.center" timestamp="1577980807083">
+    <state width="1322" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
+    <state width="1322" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578432022456" />
+    <state width="1322" height="234" key="GridCell.Tab.1.center" timestamp="1578432022456">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="234" key="GridCell.Tab.1.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577980807083" />
-    <state width="1322" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1577456259774" />
-    <state width="1322" height="234" key="GridCell.Tab.1.left" timestamp="1577980807083">
+    <state width="1322" height="234" key="GridCell.Tab.1.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
+    <state width="1322" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1578432022456" />
+    <state width="1322" height="234" key="GridCell.Tab.1.left" timestamp="1578432022456">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="234" key="GridCell.Tab.1.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577980807083" />
-    <state width="1322" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1577456259774" />
-    <state width="1322" height="234" key="GridCell.Tab.1.right" timestamp="1577980807083">
+    <state width="1322" height="234" key="GridCell.Tab.1.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
+    <state width="1322" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1578432022456" />
+    <state width="1322" height="234" key="GridCell.Tab.1.right" timestamp="1578432022456">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="234" key="GridCell.Tab.1.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577980807083" />
-    <state width="1322" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1577456259774" />
+    <state width="1322" height="234" key="GridCell.Tab.1.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
+    <state width="1322" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1578432022456" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1577454063252">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576358340576" />
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1577454063252" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1577972750190">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1577981052526">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577972750190" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981052526" />
     <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1577276993861" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1577974950141">
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1578425560277">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577974950141" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1577466901742" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578425560277" />
     <state x="398" y="116" width="846" height="527" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576323941431">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -522,8 +540,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
-          <line>9</line>
+          <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems (45)/Burger store/src/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
