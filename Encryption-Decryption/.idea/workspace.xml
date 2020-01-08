@@ -6,22 +6,24 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Encryption-Decryption/Choices, choices/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/Choices, choices/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Sources/Creator/CryptoBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Sources/Creator/CryptographCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Sources/Products/Cryptograph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Sources/Products/ShiftCryptograph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Sources/Products/UnicodeCryptograph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Sources/Creator/CryptoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/entities/сreator/CryptoBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Sources/Creator/CryptographCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/entities/сreator/CryptographCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Sources/Products/Cryptograph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/entities/products/Cryptograph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Sources/Products/ShiftCryptograph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/entities/products/ShiftCryptograph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Sources/Products/UnicodeCryptograph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/entities/products/UnicodeCryptograph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/protected.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/main/encryptdecrypt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/main/encryptdecrypt/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/test/EncryptDecryptTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/test/EncryptDecryptTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/classes/EncryptDecryptTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/classes/EncryptDecryptTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/TEST-EncryptDecryptTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/TEST-EncryptDecryptTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/output.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -398,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578432185288</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Testing Factory Method">
+      <created>1578515399626</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1578515399627</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -486,11 +495,11 @@
     </state>
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576361412196" />
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1577047620980" />
-    <state x="112" y="0" key="CommitChangelistDialog2" timestamp="1578432181789">
+    <state x="112" y="0" key="CommitChangelistDialog2" timestamp="1578515396015">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="63" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981039005" />
-    <state x="112" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1578432181789" />
+    <state x="112" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1578515396015" />
     <state x="129" y="58" key="DiffContextDialog" timestamp="1576857147125">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -500,26 +509,26 @@
     </state>
     <state x="616" y="276" key="FileChooserDialogImpl/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577978020645" />
     <state x="767" y="179" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1578431792924" />
-    <state width="1322" height="234" key="GridCell.Tab.0.bottom" timestamp="1578515317004">
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1578515552125">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
-    <state width="1322" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578515317004" />
-    <state width="1322" height="234" key="GridCell.Tab.0.center" timestamp="1578515317003">
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578515552125" />
+    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1578515552124">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.0.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067243" />
-    <state width="1322" height="234" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578515317003" />
-    <state width="1322" height="234" key="GridCell.Tab.0.left" timestamp="1578515317003">
+    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578515552124" />
+    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1578515552124">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.0.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067243" />
-    <state width="1322" height="234" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578515317003" />
-    <state width="1322" height="234" key="GridCell.Tab.0.right" timestamp="1578515317004">
+    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578515552124" />
+    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1578515552124">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.0.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
-    <state width="1322" height="234" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578515317004" />
+    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578515552124" />
     <state width="1322" height="234" key="GridCell.Tab.1.bottom" timestamp="1578515317004">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -549,11 +558,11 @@
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576358340576" />
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1577454063252" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1578432192766">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1578515404050">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981052526" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1578432192766" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1578515404050" />
     <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1578511733124">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
