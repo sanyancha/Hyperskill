@@ -2,31 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9858c36a-7e3f-49f6-b883-1af78dcc8ff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (42)/Clock factory/Problems__42_-Clock_factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (42)/Clock factory/Problems__42_-Clock_factory_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (42)/Clock factory/Problems__42_-Clock_factory_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (43)/Static factory methods for Time/Problems__43_-Static_factory_methods_for_Time.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (43)/Static factory methods for Time/Problems__43_-Static_factory_methods_for_Time_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (43)/Static factory methods for Time/Problems__43_-Static_factory_methods_for_Time_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (44)/Clocks/Problems__44_-Clocks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (44)/Clocks/Problems__44_-Clocks_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (44)/Clocks/Problems__44_-Clocks_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (45)/Burger store/Problems__45_-Burger_store.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (45)/Burger store/Problems__45_-Burger_store_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (45)/Burger store/Problems__45_-Burger_store_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/Choices, choices/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/Choices, choices/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/main/encryptdecrypt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java/main/encryptdecrypt/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/out/production/classes/encryptdecrypt/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems (1)/Check the value/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (1)/Check the value/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (33)/Too many cats/out/production/classes/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (33)/Too many cats/out/production/classes/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkWithFiles/Count even numbers/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/WorkWithFiles/Count even numbers/out/production/classes/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +31,44 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Encryption-Decryption" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Encryption-Decryption" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Encryption-Decryption" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="Encryption-Decryption" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,7 +88,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Problems (45)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36725664" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -71,18 +96,19 @@
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\Problems (1)" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\Encryption-Decryption\task\src\encryptdecrypt" />
       <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count even numbers" />
       <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count even numbers\Data" />
       <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\CountEvenNumbers\src" />
       <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\WorkWithFiles\Count numbers in a file\Data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="encryptdecrypt.Sources.Products" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sasha\IdeaProjects\Encryption-Decryption\Problems (1)" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -92,7 +118,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main_Problem">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main (1)" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="encryptdecrypt.Main" />
       <module name="Encryption-Decryption" />
@@ -107,20 +133,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems__20_-Maximum_sequence_of_the_same_characters_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (20)/Maximum sequence of the same characters" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" editBeforeRun="true" temporary="true">
       <option name="MAIN_CLASS_NAME" value="encryptdecrypt.Main" />
       <module name="Encryption-Decryption-task_main" />
-      <option name="PROGRAM_PARAMETERS" value="java Main -mode enc -key 5 -out protected.txt -in road_to_treasure.txt" />
+      <option name="PROGRAM_PARAMETERS" value="java Main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt" />
       <extension name="coverage">
         <pattern>
@@ -186,21 +202,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Encryption-Decryption [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.Main_Problem" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main_10" />
       <item itemvalue="Application.Main3" />
+      <item itemvalue="Gradle.Encryption-Decryption [run]" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main2" />
+        <item itemvalue="Gradle.Encryption-Decryption [run]" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main_10" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577981043177</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Testing Factory Method">
+      <created>1578432185288</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1578432185288</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -372,7 +414,8 @@
     <MESSAGE value="Overloading and Static Fields/Methods" />
     <MESSAGE value="Implements and extends interfaces" />
     <MESSAGE value="Pattern Strategy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern Strategy" />
+    <MESSAGE value="Testing Factory Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing Factory Method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="33" key="#Main" timestamp="1576777585681">
@@ -384,10 +427,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="400" y="41" key="#Main1/0.0.1366.768@0.0.1366.768" timestamp="1576323631975" />
-    <state x="380" y="73" key="#Main2" timestamp="1577270661344">
+    <state x="380" y="73" key="#Main2" timestamp="1578500912695">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="380" y="73" key="#Main2/0.0.1366.768@0.0.1366.768" timestamp="1577270661344" />
+    <state x="380" y="73" key="#Main2/0.0.1366.768@0.0.1366.768" timestamp="1578500912695" />
     <state x="400" y="41" key="#Main_(1)" timestamp="1576778573584">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -409,15 +452,15 @@
     </state>
     <state x="669" y="67" key="#Main_Problem/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577980799258" />
     <state x="643" y="107" width="670" height="661" key="#Main_Problem/0.0.1366.768@0.0.1366.768" timestamp="1578432016118" />
-    <state x="275" y="41" key="#Project_Structure" timestamp="1577454247235">
+    <state x="275" y="41" key="#Project_Structure" timestamp="1578494172418">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="41" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1577454247235" />
-    <state x="125" y="70" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578431848882">
+    <state x="275" y="41" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1578494172418" />
+    <state x="125" y="70" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578499821788">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="235" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577976516058" />
-    <state x="125" y="70" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1578431848882" />
+    <state x="125" y="70" width="1092" height="666" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1578499821788" />
     <state x="458" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577044755244">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -426,10 +469,11 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="491" y="102" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.768@0.0.1366.768" timestamp="1576321174330" />
-    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1577969104388">
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1578496407242">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577969104388" />
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1578496407242" />
     <state x="617" y="127" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577050199020">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -439,11 +483,11 @@
     </state>
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576361412196" />
     <state x="412" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1577047620980" />
-    <state x="63" y="0" key="CommitChangelistDialog2" timestamp="1577981039005">
+    <state x="112" y="0" key="CommitChangelistDialog2" timestamp="1578432181789">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="63" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981039005" />
-    <state x="112" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577276979229" />
+    <state x="112" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1578432181789" />
     <state x="129" y="58" key="DiffContextDialog" timestamp="1576857147125">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -453,61 +497,61 @@
     </state>
     <state x="616" y="276" key="FileChooserDialogImpl/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577978020645" />
     <state x="767" y="179" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1578431792924" />
-    <state width="1322" height="234" key="GridCell.Tab.0.bottom" timestamp="1578432022455">
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1578500920090">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
-    <state width="1322" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578432022455" />
-    <state width="1322" height="234" key="GridCell.Tab.0.center" timestamp="1578432022455">
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578500920090" />
+    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1578500920089">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.0.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067243" />
-    <state width="1322" height="234" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578432022455" />
-    <state width="1322" height="234" key="GridCell.Tab.0.left" timestamp="1578432022455">
+    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578500920089" />
+    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1578500920089">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.0.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067243" />
-    <state width="1322" height="234" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578432022455" />
-    <state width="1322" height="234" key="GridCell.Tab.0.right" timestamp="1578432022455">
+    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578500920089" />
+    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1578500920089">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.0.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
-    <state width="1322" height="234" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578432022455" />
-    <state width="1322" height="234" key="GridCell.Tab.1.bottom" timestamp="1578432022456">
+    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578500920089" />
+    <state width="1322" height="234" key="GridCell.Tab.1.bottom" timestamp="1578432242611">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
-    <state width="1322" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578432022456" />
-    <state width="1322" height="234" key="GridCell.Tab.1.center" timestamp="1578432022456">
+    <state width="1322" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578432242611" />
+    <state width="1322" height="234" key="GridCell.Tab.1.center" timestamp="1578432242610">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.1.center/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
-    <state width="1322" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1578432022456" />
-    <state width="1322" height="234" key="GridCell.Tab.1.left" timestamp="1578432022456">
+    <state width="1322" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1578432242610" />
+    <state width="1322" height="234" key="GridCell.Tab.1.left" timestamp="1578432242610">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.1.left/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
-    <state width="1322" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1578432022456" />
-    <state width="1322" height="234" key="GridCell.Tab.1.right" timestamp="1578432022456">
+    <state width="1322" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1578432242610" />
+    <state width="1322" height="234" key="GridCell.Tab.1.right" timestamp="1578432242610">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="234" key="GridCell.Tab.1.right/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981067244" />
-    <state width="1322" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1578432022456" />
+    <state width="1322" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1578432242610" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1577454063252">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1576358340576" />
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1577454063252" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1577981052526">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1578432192766">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577981052526" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1577276993861" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1578425560277">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1578432192766" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1578492353624">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1366.0.1366.768@0.0.1366.768" timestamp="1577974950141" />
-    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578425560277" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578492353624" />
     <state x="398" y="116" width="846" height="527" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576323941431">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -538,11 +582,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Problems (45)/Burger store/src/Main.java</url>
           <line>21</line>

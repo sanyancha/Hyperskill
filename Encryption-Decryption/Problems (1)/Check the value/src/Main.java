@@ -6,6 +6,5 @@ class Main {
         // put your code here
         System.out.println(scanner.nextInt() < 10);
         char c = 'c';
-        Character.toUpperCase()
     }
 }
