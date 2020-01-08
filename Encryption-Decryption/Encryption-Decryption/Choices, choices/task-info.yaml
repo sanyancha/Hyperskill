@@ -162,10 +162,6 @@ files:
         }
     }
   learner_created: false
-- name: src/encryptdecrypt/protected.txt
-  visible: true
-  text: \jqhtrj%yt%m~ujwxpnqq&
-  learner_created: true
 - name: output.txt
   visible: true
   text: 111122223333
@@ -174,19 +170,22 @@ files:
   visible: true
   text: Welcome to hyperskill!
   learner_created: true
-- name: src/encryptdecrypt/Sources/Products/Cryptograph.java
+- name: src/encryptdecrypt/entities/сreator/CryptoBuilder.java
   visible: true
   learner_created: true
-- name: src/encryptdecrypt/Sources/Products/ShiftCryptograph.java
+- name: src/encryptdecrypt/entities/сreator/CryptographCreator.java
   visible: true
   learner_created: true
-- name: src/encryptdecrypt/Sources/Creator/CryptoBuilder.java
+- name: src/encryptdecrypt/entities/products/Cryptograph.java
   visible: true
   learner_created: true
-- name: src/encryptdecrypt/Sources/Creator/CryptographCreator.java
+- name: src/encryptdecrypt/entities/products/ShiftCryptograph.java
   visible: true
   learner_created: true
-- name: src/encryptdecrypt/Sources/Products/UnicodeCryptograph.java
+- name: src/encryptdecrypt/entities/products/UnicodeCryptograph.java
+  visible: true
+  learner_created: true
+- name: src/encryptdecrypt/protected.txt
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/projects/46/stages/250/implement

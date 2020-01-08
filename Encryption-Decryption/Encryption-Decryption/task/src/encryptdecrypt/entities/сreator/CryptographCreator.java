@@ -1,9 +1,6 @@
-package encryptdecrypt.Sources.Creator;
-
-import encryptdecrypt.Sources.Products.Cryptograph;
+package encryptdecrypt.entities.сreator;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
@@ -57,6 +54,7 @@ public class CryptographCreator extends CryptoBuilder {
         if (fileOut != null) {
             FileWriter fileWriter = new FileWriter(fileOut);
             fileWriter.write(transformedData);
+            fileWriter.close();
             return null;
         } else {
             return transformedData;

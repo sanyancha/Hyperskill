@@ -1,4 +1,4 @@
-package encryptdecrypt.Sources.Products;
+package encryptdecrypt.entities.products;
 
 public class ShiftCryptograph extends Cryptograph {
 

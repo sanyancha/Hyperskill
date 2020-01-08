@@ -1,8 +1,8 @@
-package encryptdecrypt.Sources.Creator;
+package encryptdecrypt.entities.сreator;
 
-import encryptdecrypt.Sources.Products.Cryptograph;
-import encryptdecrypt.Sources.Products.ShiftCryptograph;
-import encryptdecrypt.Sources.Products.UnicodeCryptograph;
+import encryptdecrypt.entities.products.Cryptograph;
+import encryptdecrypt.entities.products.ShiftCryptograph;
+import encryptdecrypt.entities.products.UnicodeCryptograph;
 
 import java.io.File;
 import java.io.IOException;
