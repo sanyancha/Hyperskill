@@ -1,0 +1,12 @@
+type: hyperskill
+title: File Type Analyzer
+language: English
+summary: 'Files come in all possible formats: we usually see it specified in their
+  names. In any case, information about the type is always contained within the file:
+  in this project, you will learn to extract this info. Write a program that can analyze
+  a file and determine its type.<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/64</a>'
+programming_language: Java
+programming_language_version: 11
+content:
+- File Type Analyzer
+mode: Study
